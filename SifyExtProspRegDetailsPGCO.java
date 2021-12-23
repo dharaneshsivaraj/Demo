@@ -1,5 +1,5 @@
 package oracle.apps.sfc.ext.pos.onboard.webui;
-
+/*  commented for showing the differences   version2  */
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
