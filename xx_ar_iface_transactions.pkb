@@ -1,6 +1,6 @@
 create or replace package body xx_ar_iface_transactions
 as
- 
+ --commented for showing the branches 
   procedure XX_STG_TBL_PROCESS
 (
 p_IC_TYPE			IN VARCHAR2,
