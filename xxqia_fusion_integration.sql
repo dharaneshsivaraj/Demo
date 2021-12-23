@@ -1,6 +1,8 @@
 CREATE OR REPLACE package body APPS.xxqia_fusion_integration
 --AUTHID CURRENT_USER
 
+---- commented for showing the differences   version2
+
 as
 
 procedure process_grades_dat(p_file_name in VARCHAR2)
